@@ -1,5 +1,3 @@
-[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
-
 ## Screenshots
 ![alt text](https://i.ibb.co/wRcfLwP/Screenshot-2022-09-20-025641.png)
 ![alt text](https://i.ibb.co/4PMD5W2/Screenshot-2022-09-20-181139.png)
